@@ -11,6 +11,6 @@ sensor.js -> the sensors of car used for detecting cars and borders<br>
 network.js -> the structure of the neural network<br>
 visualizer.js -> provide animation to the neural network
 
-
+check it at [self-driving-car](https://rajinkhatri.github.io/self-driving-car/)<br><br>
 <b>future enhancements:</b>
 <i>always stay in middle lane, automatic traffic update</i> 
